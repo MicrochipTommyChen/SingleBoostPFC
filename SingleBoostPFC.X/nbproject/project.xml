@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://www.netbeans.org/ns/project/1">
+    <type>com.microchip.mplab.nbide.embedded.makeproject</type>
+    <configuration>
+        <data xmlns="http://www.netbeans.org/ns/make-project/1">
+            <name>SingleBoostPFC</name>
+            <creation-uuid>e243d026-0c61-4548-853f-10c24c9ae349</creation-uuid>
+            <make-project-type>0</make-project-type>
+            <c-extensions>c</c-extensions>
+            <cpp-extensions/>
+            <header-extensions>h</header-extensions>
+            <asminc-extensions/>
+            <sourceEncoding>ISO-8859-1</sourceEncoding>
+            <make-dep-projects/>
+            <sourceRootList>
+                <sourceRootElem>.</sourceRootElem>
+                <sourceRootElem>_h</sourceRootElem>
+                <sourceRootElem>_src</sourceRootElem>
+                <sourceRootElem>mcc_generated_files</sourceRootElem>
+                <sourceRootElem>dcdt/iloop/dcdt_generated_code</sourceRootElem>
+                <sourceRootElem>dcdt/vcm/dcdt_generated_code</sourceRootElem>
+                <sourceRootElem>apps</sourceRootElem>
+            </sourceRootList>
+            <confList>
+                <confElem>
+                    <name>default</name>
+                    <type>2</type>
+                </confElem>
+            </confList>
+            <formatting>
+                <project-formatting-style>false</project-formatting-style>
+            </formatting>
+        </data>
+    </configuration>
+</project>
